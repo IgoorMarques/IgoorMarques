@@ -34,7 +34,6 @@ Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em dese
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AKS"/>
   <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlekubernetesengine&logoColor=white" alt="GKE"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
 ## 📊 Estatísticas do GitHub
