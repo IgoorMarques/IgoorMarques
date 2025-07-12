@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Igor Marques
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Especialista+em+Cloud+Computing;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
