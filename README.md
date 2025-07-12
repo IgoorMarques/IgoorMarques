@@ -1,23 +1,23 @@
 # 👋 Olá! Eu sou Igor Marques
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Especialista+em+Cloud+Computing;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Especialista+em+Cloud+Computing;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento full-stack e infraestrutura cloud. Tenho sólida experiência em múltiplas linguagens de programação e plataformas de nuvem, sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em desenvolvimento de sistemas robustos e infraestrutura cloud. Tenho sólida experiência em múltiplas linguagens de programação e plataformas de nuvem, sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Linguagens de Programação
 <div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 ### 🗄️ Bancos de Dados
@@ -46,11 +46,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgoorMarques&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-### 🏢 Contribuições Organizacionais
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" alt="Todas as Contribuições"/>
-</div>
-
 ## 💼 Experiência Profissional
 
 <div align="center">
@@ -60,10 +55,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 
 ## 🎯 Áreas de Interesse
 
-- **Desenvolvimento Full-Stack**: Criação de aplicações web completas e robustas
+- **Desenvolvimento Backend**: Criação de APIs robustas e sistemas escaláveis
 - **Cloud Computing**: Implementação e gerenciamento de infraestrutura em nuvem
 - **Containers & Orquestração**: Kubernetes, Docker e tecnologias de containerização
-- **Arquitetura de Software**: Design de sistemas escaláveis e eficientes
+- **Arquitetura de Software**: Design de sistemas distribuídos e microserviços
 - **Desenvolvimento Mobile**: Aplicações Android com Kotlin
 
 ## 🌟 Projetos em Destaque
