@@ -38,12 +38,19 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoorMarques&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_orgs=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoorMarques&layout=compact&langs_count=7&theme=tokyonight&count_private=true&include_orgs=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgoorMarques&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 💼 Experiência Profissional
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Conecta_Hub-Desenvolvedor-2E96F7?style=for-the-badge&logo=office&logoColor=white" alt="Conecta Hub"/>
+  <img src="https://img.shields.io/badge/Contribuições_Ativas-Organizações-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições"/>
 </div>
 
 ## 🎯 Áreas de Interesse
