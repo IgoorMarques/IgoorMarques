@@ -71,12 +71,6 @@ Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em dese
   </a>
 </div>
 
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgoorMarques&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
 ## 🤝 Vamos Conectar!
 
 Estou sempre aberto a novas oportunidades e colaborações. Não hesite em entrar em contato!
