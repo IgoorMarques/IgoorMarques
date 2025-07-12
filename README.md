@@ -38,12 +38,17 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_orgs=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoorMarques&layout=compact&langs_count=7&theme=tokyonight&count_private=true&include_orgs=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoorMarques&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgoorMarques&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+### 🏢 Contribuições Organizacionais
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" alt="Todas as Contribuições"/>
 </div>
 
 ## 💼 Experiência Profissional
