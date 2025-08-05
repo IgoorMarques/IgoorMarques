@@ -56,13 +56,3 @@ Estou sempre aberto a novas oportunidades e colaborações. Não hesite em entra
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgoorMarques&color=blue&style=flat-square&label=Visitantes" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <i>⭐ Curtiu meu perfil? Dê uma estrela nos meus repositórios! ⭐</i>
-</div>
