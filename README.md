@@ -33,17 +33,6 @@ Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em dese
   <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlekubernetesengine&logoColor=white" alt="GKE"/>
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgoorMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoorMarques&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgoorMarques&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
 ## 💼 Experiência Profissional
 
 <div align="center">
