@@ -33,13 +33,6 @@ Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em dese
   <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlekubernetesengine&logoColor=white" alt="GKE"/>
 </div>
 
-## 💼 Experiência Profissional
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Conecta_Hub-Desenvolvedor-2E96F7?style=for-the-badge&logo=office&logoColor=white" alt="Conecta Hub"/>
-  <img src="https://img.shields.io/badge/Contribuições_Ativas-Organizações-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições"/>
-</div>
-
 ## 🎯 Áreas de Interesse
 
 - **Desenvolvimento Backend**: Criação de APIs robustas e sistemas escaláveis
@@ -47,14 +40,6 @@ Sou um desenvolvedor backend apaixonado por tecnologia, com experiência em dese
 - **Containers & Orquestração**: Kubernetes, Docker e tecnologias de containerização
 - **Arquitetura de Software**: Design de sistemas distribuídos e microserviços
 - **Desenvolvimento Mobile**: Aplicações Android com Kotlin
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/IgoorMarques?tab=repositories">
-    <img src="https://img.shields.io/badge/Veja_Meus_Repositórios-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
-</div>
 
 ## 🤝 Vamos Conectar!
 
